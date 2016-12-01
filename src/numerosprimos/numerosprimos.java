@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author 
+ * @author avazquezsuarez
  */
 public class numerosprimos {
 
